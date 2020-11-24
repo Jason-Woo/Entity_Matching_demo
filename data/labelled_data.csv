@@ -1,0 +1,511 @@
+_id,ltable_Id,rtable_Id,ltable_Site name,ltable_Address,ltable_Phone,ltable_Zip,rtable_Site name,rtable_Address,rtable_Phone,rtable_Zip,label
+2,2214,1880,Henry Booth House The World Is Yours,8026 S Cottage Grove Ave. ,,60619,SOUTH CENTRAL COMMUNITY SERVICES SOUTH CENTRAL COMMUNITY SERVICE,8316 S ELLIS AVE ,4830900,60619,0
+5,2214,2214,Henry Booth House The World Is Yours,8026 S Cottage Grove Ave. ,,60619,Henry Booth House The World Is Yours,8026 S Cottage Grove Ave. ,,60619,1
+6,2214,2885,Henry Booth House The World Is Yours,8026 S Cottage Grove Ave. ,,60619, Chesterfield Tom Thumb Day Care Center & Kindergarten,9208-9214 South Cottage Grove  ,8743985,60619,0
+13,2663,2663, Monroe,3651 W. Shubert ,5344155,60647, Monroe,3651 W. Shubert ,5344155,60647,1
+18,3083,3027, Centers for New Horizons Raymond School,3663 S Wabash Avenue ,3735673,60653, Abraham Lincoln Centre,3858 S Cottage Grove Avenue ,3736600,60653,0
+19,3083,3083, Centers for New Horizons Raymond School,3663 S Wabash Avenue ,3735673,60653, Centers for New Horizons Raymond School,3663 S Wabash Avenue ,3735673,60653,1
+20,3083,2291, Centers for New Horizons Raymond School,3663 S Wabash Avenue ,3735673,60653,YMCA of Metropolitan Chicago Wabash,3763 S. Wabash Ave. ,2850020,60653,0
+48,690,329, Bethel New Life - Lake and Pulaski,316 N Pulaski Rd ,2653830,, Bethel New Life Bethel Child Development,316 N. Pulaski ,2653830,,0
+52,515,516, Easter Seals Society of Metropolitan Chicago - Gilchrist-Marchman,1001 W Roosevelt Rd ,9395115,, Easter Seals Society of Metropolitan Chicago - Gilchrist-Marchman,1001 W Roosevelt Rd ,9395115,,1
+53,515,1161, Easter Seals Society of Metropolitan Chicago - Gilchrist-Marchman,1001 W Roosevelt Rd ,9395115,, Easter Seals Society of Metropolitan Chicago - Gilchrist-Marchman,1001 W Roosevelt Rd ,9395115,,1
+58,3311,3311, Carole Robertson Center For Learning,3701 W Ogden Avenue ,5228400,60623, Carole Robertson Center For Learning,3701 W Ogden Avenue ,5228400,60623,1
+73,953,953, Harte,1556 E. 56Th St. ,5350870,, Harte,1556 E. 56Th St. ,5350870,,1
+82,3235,3235, New Pisgah Day Care Center,8130 S Racine Avenue ,8735392,60620, New Pisgah Day Care Center,8130 S Racine Avenue ,8735392,60620,1
+83,3235,3037, New Pisgah Day Care Center,8130 S Racine Avenue ,8735392,60620, Ada S. McKinley Community Services - Wright Renaissance,7939 S Western Avenue ,4768805,60620,0
+86,2531,2531, Gregory,3715 W. Polk Street ,5346820,60624, Gregory,3715 W. Polk Street ,5346820,60624,1
+90,2531,3305, Gregory,3715 W. Polk Street ,5346820,60624, Hansberry,4055 W Arthington Street ,5346931,60624,0
+96,2531,1032, Gregory,3715 W. Polk Street ,5346820,60624, Gregory,3715 W. Polk Street ,5346820,,1
+98,1134,1134, Cook,8150 S. Bishop ,5353315,, Cook,8150 S. Bishop ,5353315,,1
+99,2175,2175,Gads Hill Center M & E Daycare - 79th Street Day Care,3728 W 79th St. ,5857979,60652,Gads Hill Center M & E Daycare - 79th Street Day Care,3728 W 79th St. ,5857979,60652,1
+101,2175,2134,Gads Hill Center M & E Daycare - 79th Street Day Care,3728 W 79th St. ,5857979,60652,Easter Seals Society of Metropolitan Chicago Lordanchild Daycare,3344 W 79th St ,4344918,60652,0
+110,2056,1782,"Chicago Public Schools Penn, William",1616 S. Avers ,5341665,60623,HULL HOUSE ASSOCIATION FCCH-MONICA PIERCE,1644 S AVERS ST ,2355342,60623,0
+122,1032,1032, Gregory,3715 W. Polk Street ,5346820,, Gregory,3715 W. Polk Street ,5346820,,1
+124,2267,2267,Salvation Army Teen Parenting Program,1548 W Adams ,4210327,60607,Salvation Army Teen Parenting Program,1548 W Adams ,4210327,60607,1
+136,2522,2522, Gary,3740 W. 31St St. ,5341455,60623, Gary,3740 W. 31St St. ,5341455,60623,1
+151,859,859, Henry Booth House - Pink's Child Care Academy,8236 S Kedzie Ave ,8637465,, Henry Booth House - Pink's Child Care Academy,8236 S Kedzie Ave ,8637465,,1
+155,2291,2291,YMCA of Metropolitan Chicago Wabash,3763 S. Wabash Ave. ,2850020,60653,YMCA of Metropolitan Chicago Wabash,3763 S. Wabash Ave. ,2850020,60653,1
+162,930,930, LaSalle/Andersen,1148 N. Honore ,5344276,, LaSalle/Andersen,1148 N. Honore ,5344276,,1
+164,2443,2443, Cooper,1624 W. 19Th St. ,5347205,60608, Cooper,1624 W. 19Th St. ,5347205,60608,1
+167,2443,2725, Cooper,1624 W. 19Th St. ,5347205,60608, Pilsen,1420 W. 17Th St. ,5347675,60608,0
+175,2268,2268,South Central Community Services South Central Community Service,8316 S. Ellis Ave. ,4830900,60618,South Central Community Services South Central Community Service,8316 S. Ellis Ave. ,4830900,60618,1
+176,2268,1880,South Central Community Services South Central Community Service,8316 S. Ellis Ave. ,4830900,60618,SOUTH CENTRAL COMMUNITY SERVICES SOUTH CENTRAL COMMUNITY SERVICE,8316 S ELLIS AVE ,4830900,60619,1
+185,1880,2268,SOUTH CENTRAL COMMUNITY SERVICES SOUTH CENTRAL COMMUNITY SERVICE,8316 S ELLIS AVE ,4830900,60619,South Central Community Services South Central Community Service,8316 S. Ellis Ave. ,4830900,60618,1
+200,2233,2233,Marcy Newberry Association Learning Tree 2,8322 S Pulaski Rd. ,8843345,60652,Marcy Newberry Association Learning Tree 2,8322 S Pulaski Rd. ,8843345,60652,1
+207,1877,1877,SALVATION ARMY SOUTH SHORE BIBLE/MARANATHA HEAD START,1631 E 71ST ST ,4937500,60649,SALVATION ARMY SOUTH SHORE BIBLE/MARANATHA HEAD START,1631 E 71ST ST ,4937500,60649,1
+208,1877,2186,SALVATION ARMY SOUTH SHORE BIBLE/MARANATHA HEAD START,1631 E 71ST ST ,4937500,60649,Henry Booth House Color For Tots,2550 E. 73rd St. ,3638687,60649,0
+212,185,185, Marcy Newberry Association - South Harper Montessori,8358 S Stony Island Ave ,7340375,, Marcy Newberry Association - South Harper Montessori,8358 S Stony Island Ave ,7340375,,1
+252,2045,2045,"Chicago Public Schools Morgan, Garrett A.",8407 S. Kerfoot ,5353366,60620,"Chicago Public Schools Morgan, Garrett A.",8407 S. Kerfoot ,5353366,60620,1
+254,1385,3027,ABRAHAM LINCOLN CENTRE ABRAHAM-LINCOLN,3858 S COTTAGE GROVE ,2851390,60653, Abraham Lincoln Centre,3858 S Cottage Grove Avenue ,3736600,60653,1
+260,1385,1385,ABRAHAM LINCOLN CENTRE ABRAHAM-LINCOLN,3858 S COTTAGE GROVE ,2851390,60653,ABRAHAM LINCOLN CENTRE ABRAHAM-LINCOLN,3858 S COTTAGE GROVE ,2851390,60653,1
+277,2889,2889, Chicago Commons Taylor Center for New Experiences,1633 North Hamlin Avenue  ,2278551,60647, Chicago Commons Taylor Center for New Experiences,1633 North Hamlin Avenue  ,2278551,60647,1
+281,2889,3092, Chicago Commons Taylor Center for New Experiences,1633 North Hamlin Avenue  ,2278551,60647, Chicago Commons - Taylor Center School,1633 N Hamlin Avenue ,2278551,60647,1
+286,3092,2889, Chicago Commons - Taylor Center School,1633 N Hamlin Avenue ,2278551,60647, Chicago Commons Taylor Center for New Experiences,1633 North Hamlin Avenue  ,2278551,60647,1
+290,3092,3092, Chicago Commons - Taylor Center School,1633 N Hamlin Avenue ,2278551,60647, Chicago Commons - Taylor Center School,1633 N Hamlin Avenue ,2278551,60647,1
+300,1782,2056,HULL HOUSE ASSOCIATION FCCH-MONICA PIERCE,1644 S AVERS ST ,2355342,60623,"Chicago Public Schools Penn, William",1616 S. Avers ,5341665,60623,0
+309,997,997, McKinley Park,2744 W. Pershing Rd ,5533661,, McKinley Park,2744 W. Pershing Rd ,5533661,,1
+310,1274,1274, Centers For New Horizons - Edison L. Hoard Learning Center,3901 S State St ,5362187,, Centers For New Horizons - Edison L. Hoard Learning Center,3901 S State St ,5362187,,1
+311,1000,1000, Barry,2828 N. Kilbourn ,5343455,, Barry,2828 N. Kilbourn ,5343455,,1
+313,256,2397, Chicago Commons Paulo Freire,1653 W. 43rd Street ,8266260,, Chicago Commons PauloFreire,1653 W. 43rd St ,8266260,60609,1
+322,2933,2933, Kidwatch Plus ,3901 North Ridgeway  ,5395431,60618, Kidwatch Plus ,3901 North Ridgeway  ,5395431,60618,1
+326,204,204, Delano CPC,3905 W. Wilcox ,5346450,, Delano CPC,3905 W. Wilcox ,5346450,,1
+328,2397,2397, Chicago Commons PauloFreire,1653 W. 43rd St ,8266260,60609, Chicago Commons PauloFreire,1653 W. 43rd St ,8266260,60609,1
+336,2397,256, Chicago Commons PauloFreire,1653 W. 43rd St ,8266260,60609, Chicago Commons Paulo Freire,1653 W. 43rd Street ,8266260,,1
+340,328,328, Locke Charter School,3141 W. Jackson ,2657232,, Locke Charter School,3141 W. Jackson ,2657232,,1
+341,258,2495, Erie Neighborhood House,1701 W. Superior ,5635800,, Erie House,1701 W. Superior ,5635800,60622,1
+342,258,258, Erie Neighborhood House,1701 W. Superior ,5635800,, Erie Neighborhood House,1701 W. Superior ,5635800,,1
+347,3251,3251, Saint Bronislava Early Childhood Center,8716 S Colfax Avenue ,6557305,60617, Saint Bronislava Early Childhood Center,8716 S Colfax Avenue ,6557305,60617,1
+349,3251,3096, Saint Bronislava Early Childhood Center,8716 S Colfax Avenue ,6557305,60617, Chicago Department of Human Services - South Chicago,8759 S Commercial Avenue ,7470331,60617,0
+355,2065,873,"Chicago Public Schools Ryder, William H.",8716 S. Wallace Street ,5353843,60620, Ryder,8716 S. Wallace ,5353843,,1
+357,2065,2065,"Chicago Public Schools Ryder, William H.",8716 S. Wallace Street ,5353843,60620,"Chicago Public Schools Ryder, William H.",8716 S. Wallace Street ,5353843,60620,1
+363,348,348, Ada S. McKinley St. Thomas CDC,3801 S. Wabash ,2850617,, Ada S. McKinley St. Thomas CDC,3801 S. Wabash ,2850617,,1
+364,348,723, Ada S. McKinley St. Thomas CDC,3801 S. Wabash ,2850617,, Ada S. McKinley Community Services - McKinley - St. Thomas,3801 S Wabash Ave ,2850617,,1
+372,2495,2495, Erie House,1701 W. Superior ,5635800,60622, Erie House,1701 W. Superior ,5635800,60622,1
+375,2495,258, Erie House,1701 W. Superior ,5635800,60622, Erie Neighborhood House,1701 W. Superior ,5635800,,1
+378,723,723, Ada S. McKinley Community Services - McKinley - St. Thomas,3801 S Wabash Ave ,2850617,, Ada S. McKinley Community Services - McKinley - St. Thomas,3801 S Wabash Ave ,2850617,,1
+386,2055,3232,Chicago Public Schools Peck School,4026 W. 59th Street ,5352450,60629, Metropolitan Family Services Children's Center,3215 W 63rd Street ,8842350,60629,0
+396,3096,3251, Chicago Department of Human Services - South Chicago,8759 S Commercial Avenue ,7470331,60617, Saint Bronislava Early Childhood Center,8716 S Colfax Avenue ,6557305,60617,0
+400,355,355, Frazier Preparatory Academy,4027 W. Grenshaw ,5358653,, Frazier Preparatory Academy,4027 W. Grenshaw ,5358653,,1
+414,3305,3305, Hansberry,4055 W Arthington Street ,5346931,60624, Hansberry,4055 W Arthington Street ,5346931,60624,1
+421,1039,1039, Nobel,4127 W. Hirsch ,5344365,, Nobel,4127 W. Hirsch ,5344365,,1
+422,744,744, McCorkle,4421 S. State St. ,5351793,, McCorkle,4421 S. State St. ,5351793,,1
+423,1055,1055, Woodson South,4444 S. Evans Ave ,5351280,, Woodson South,4444 S. Evans Ave ,5351280,,1
+424,382,382, Archdiocese of Chicago - St. Thomas of Canterbury,4827 N. Kenmore ,2810018,, Archdiocese of Chicago - St. Thomas of Canterbury,4827 N. Kenmore ,2810018,,1
+436,2651,2651, McCutcheon,4846 N. Sheridan Rd ,5342680,60640, McCutcheon,4846 N. Sheridan Rd ,5342680,60640,1
+445,1540,2522,"CHICAGO PUBLIC SCHOOLS MASON, ROSWELL B.",4216 W 19TH ST ,5341530,60623, Gary,3740 W. 31St St. ,5341455,60623,0
+460,2639,2639, Marsh,9810 S. Exchange ,5356430,60617, Marsh,9810 S. Exchange ,5356430,60617,1
+469,811,811, Reed,6350 S. Stewart ,5353075,, Reed,6350 S. Stewart ,5353075,,1
+478,49,1669, El Valor - Little Tykes II,1723 W 35th St ,5791791,,EL VALOR LITTLE TYKES II,1723 W 35TH STREET ,5791791,60609,1
+492,1408,1408,BOARD TRUSTEES-CITY COLLEGES OF CHICAGO OLIVE-HARVEY COLLEGE,10001 S WOODLAWN ,2916317,60628,BOARD TRUSTEES-CITY COLLEGES OF CHICAGO OLIVE-HARVEY COLLEGE,10001 S WOODLAWN ,2916317,60628,1
+493,437,437, Archdiocese of Chicago - Queen of the Universe,7130 S. Hamlin ,5824266,, Archdiocese of Chicago - Queen of the Universe,7130 S. Hamlin ,5824266,,1
+497,1669,49,EL VALOR LITTLE TYKES II,1723 W 35TH STREET ,5791791,60609, El Valor - Little Tykes II,1723 W 35th St ,5791791,,1
+508,1044,1044, Henry,4250 N. St. Louis ,5345060,, Henry,4250 N. St. Louis ,5345060,,1
+512,183,183, Human Resources Development Institute - Human Resources Development Institute,8151 S Western Ave ,8631145,, Human Resources Development Institute - Human Resources Development Institute,8151 S Western Ave ,8631145,,1
+514,2521,2521, Gallistel,10347 S. Ewing Ave. ,5356540,60617, Gallistel,10347 S. Ewing Ave. ,5356540,60617,1
+521,1139,1139, New Sullivan,8331 S. Mackinaw ,5356585,, New Sullivan,8331 S. Mackinaw ,5356585,,1
+522,522,2606, Kohn,10414 S. State St. ,5355489,, Kohn,10414 S. State  ,5355489,60628,1
+523,522,522, Kohn,10414 S. State St. ,5355489,, Kohn,10414 S. State St. ,5355489,,1
+524,467,467, Little Elite Academy,8748 S. Aberdeen ,4487990,, Little Elite Academy,8748 S. Aberdeen ,4487990,,1
+531,2606,2606, Kohn,10414 S. State  ,5355489,60628, Kohn,10414 S. State  ,5355489,60628,1
+540,11,11, Catholic Charities of the Archdiocese of Chicago - St. Kevin,10509 S Torrence Ave ,3746466,, Catholic Charities of the Archdiocese of Chicago - St. Kevin,10509 S Torrence Ave ,3746466,,1
+541,874,874, Henry Booth House - Little Elite Childcare,8748 S Aberdeen St ,4887988,, Henry Booth House - Little Elite Childcare,8748 S Aberdeen St ,4887988,,1
+545,2024,2024,"Chicago Public Schools Jungman, Joseph",1746 S. Miller ,5347375,60608,"Chicago Public Schools Jungman, Joseph",1746 S. Miller ,5347375,60608,1
+557,2755,2278, Salvation Army New Hope,4255 W. Division  ,7724908,60651,Westside Holistic Family Services WESTSIDE HOLISTIC FAMILY SERVICES,4909 W. Division ,9218777,60651,0
+561,2755,2755, Salvation Army New Hope,4255 W. Division  ,7724908,60651, Salvation Army New Hope,4255 W. Division  ,7724908,60651,1
+580,1914,1914,"Ada S. McKinley
+Community Services McKinley-Trumbull Park",10530 S. Oglesby ,9785341,60617,"Ada S. McKinley
+Community Services McKinley-Trumbull Park",10530 S. Oglesby ,9785341,60617,1
+581,1756,1756,HENRY BOOTH HOUSE LIVING WITNESS,4259 N LARAMIE ,,60641,HENRY BOOTH HOUSE LIVING WITNESS,4259 N LARAMIE ,,60641,1
+584,3214,3214, Lutheran Social Services - Rogers Park,1754 W Devon Avenue ,6354600,60660, Lutheran Social Services - Rogers Park,1754 W Devon Avenue ,6354600,60660,1
+590,2500,2500, Eyes on the Future II,1773 W. Lunt ,7628045,60626, Eyes on the Future II,1773 W. Lunt ,7628045,60626,1
+598,2409,2409, Children's Place Family Center,1800 N. Humboldt ,3959193,60622, Children's Place Family Center,1800 N. Humboldt ,3959193,60622,1
+606,920,920, Mt. Vernon,10540 S. Morgan ,5352825,, Mt. Vernon,10540 S. Morgan ,5352825,,1
+621,1203,1203, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,,1
+622,1203,1276, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,,1
+623,1276,1203, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,,1
+624,1276,1276, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,, Korean American Community Services - Korean American Community Services,4300 N California Ave ,5838281,,1
+625,224,224, Children?s Developmental Institute MP,10928 S. Halsted St. ,9950600,, Children?s Developmental Institute MP,10928 S. Halsted St. ,9950600,,1
+626,600,600, Chicago Commons Association - Guadalupano Family Center,1814 S Paulina St ,6663883,, Chicago Commons Association - Guadalupano Family Center,1814 S Paulina St ,6663883,,1
+630,0,0, Salvation Army - Temple / Salvation Army,1 N Ogden Ave ,2262649,, Salvation Army - Temple / Salvation Army,1 N Ogden Ave ,2262649,,1
+631,0,1226, Salvation Army - Temple / Salvation Army,1 N Ogden Ave ,2262649,, Salvation Army - Temple / Salvation Army,1 N Ogden Ave ,2262649,,1
+643,2190,2190,Henry Booth House Hippity Hop Tiny Tots,11223 S. Halsted St. ,7853340,60628,Henry Booth House Hippity Hop Tiny Tots,11223 S. Halsted St. ,7853340,60628,1
+647,1225,1226, Salvation Army - Temple / Salvation Army,1 N Ogden Ave ,2262649,, Salvation Army - Temple / Salvation Army,1 N Ogden Ave ,2262649,,1
+649,19,1913, Ada S. McKinley Community Services - McKinley - Roseland,11410 S Edbrooke Ave ,4681918,,"Ada S. McKinley
+Community Services McKinley-Roseland",11410 S. Edbrooke ,4681918,60628,1
+652,507,3332, YMCA of Metropolitan Chicago - Garfield Head Start/Child Developmental Center- YMCA,7 N Homan Ave ,2653900,, YMCA Garfield,7 N Homan Avenue ,2653900,60624,1
+653,507,507, YMCA of Metropolitan Chicago - Garfield Head Start/Child Developmental Center- YMCA,7 N Homan Ave ,2653900,, YMCA of Metropolitan Chicago - Garfield Head Start/Child Developmental Center- YMCA,7 N Homan Ave ,2653900,,1
+657,1235,1236, Ada S. McKinley Community Services - McKinley - Roseland,11410 S Edbrooke Ave ,4681918,, Ada S. McKinley Community Services - McKinley - Roseland,11410 S Edbrooke Ave ,4681918,,1
+658,1913,1913,"Ada S. McKinley
+Community Services McKinley-Roseland",11410 S. Edbrooke ,4681918,60628,"Ada S. McKinley
+Community Services McKinley-Roseland",11410 S. Edbrooke ,4681918,60628,1
+669,1913,19,"Ada S. McKinley
+Community Services McKinley-Roseland",11410 S. Edbrooke ,4681918,60628, Ada S. McKinley Community Services - McKinley - Roseland,11410 S Edbrooke Ave ,4681918,,1
+673,1913,1236,"Ada S. McKinley
+Community Services McKinley-Roseland",11410 S. Edbrooke ,4681918,60628, Ada S. McKinley Community Services - McKinley - Roseland,11410 S Edbrooke Ave ,4681918,,1
+676,2281,3332,YMCA of Metropolitan Chicago Garfield,7 N. Homan ,2653900,60624, YMCA Garfield,7 N Homan Avenue ,2653900,60624,1
+679,2281,507,YMCA of Metropolitan Chicago Garfield,7 N. Homan ,2653900,60624, YMCA of Metropolitan Chicago - Garfield Head Start/Child Developmental Center- YMCA,7 N Homan Ave ,2653900,,1
+690,3332,3332, YMCA Garfield,7 N Homan Avenue ,2653900,60624, YMCA Garfield,7 N Homan Avenue ,2653900,60624,1
+702,2,3, National Louis University - Dr. Effie O. Ellis Training Center,10 S Kedzie Ave ,5339011,, National Louis University - Dr. Effie O. Ellis Training Center,10 S Kedzie Ave ,5339011,,1
+704,511,3, National Louis University - Dr. Effie O. Ellis Training Center,10 S Kedzie Ave ,5339011,, National Louis University - Dr. Effie O. Ellis Training Center,10 S Kedzie Ave ,5339011,,1
+705,511,511, National Louis University - Dr. Effie O. Ellis Training Center,10 S Kedzie Ave ,5339011,, National Louis University - Dr. Effie O. Ellis Training Center,10 S Kedzie Ave ,5339011,,1
+706,931,931, Whistler,11533 S. Ada ,5355560,, Whistler,11533 S. Ada ,5355560,,1
+708,2016,2016,"Chicago Public Schools Higgins C.A., Thomas J.",11710 S. Morgan ,5355625,60643,"Chicago Public Schools Higgins C.A., Thomas J.",11710 S. Morgan ,5355625,60643,1
+711,1280,1280, Hull House Association - Leclaire-Ryder Day Care / Hull House,4410 S Laporte Ave ,7675170,, Hull House Association - Leclaire-Ryder Day Care / Hull House,4410 S Laporte Ave ,7675170,,1
+713,965,965, Sayre Lang Acad,1850 N. Newland ,5343351,, Sayre Lang Acad,1850 N. Newland ,5343351,,1
+714,935,935, Owens,12450 S. State St. ,5355661,, Owens,12450 S. State St. ,5355661,,1
+721,2077,2077,"Chicago Public Schools Stockton, Joseph",4423 N. Magnolia ,5342510,60640,"Chicago Public Schools Stockton, Joseph",4423 N. Magnolia ,5342510,60640,1
+729,546,546," Brown Academy, R.",12607 S. Union ,5355385,," Brown Academy, R.",12607 S. Union ,5355385,,1
+751,1908,1908,"Ada S. McKinley
+Community Services Children's Center (Halsted)",12803 S Halsted ,2645171,60628,"Ada S. McKinley
+Community Services Children's Center (Halsted)",12803 S Halsted ,2645171,60628,1
+757,1908,2190,"Ada S. McKinley
+Community Services Children's Center (Halsted)",12803 S Halsted ,2645171,60628,Henry Booth House Hippity Hop Tiny Tots,11223 S. Halsted St. ,7853340,60628,0
+760,1356,1356," Ounce of Prevention Fund, Inc.","33 West Monroe Street, Suite 2400",9223863,60603," Ounce of Prevention Fund, Inc.","33 West Monroe Street, Suite 2400",9223863,60603,1
+762,56,607, Board Trustees-City Colleges of Chicago - Malcolm X College,1900 W Van Buren St ,8507000,, Board Trustees-City Colleges of Chicago - Malcolm X College,1900 W Van Buren St ,8507000,,1
+763,56,56, Board Trustees-City Colleges of Chicago - Malcolm X College,1900 W Van Buren St ,8507000,, Board Trustees-City Colleges of Chicago - Malcolm X College,1900 W Van Buren St ,8507000,,1
+766,607,607, Board Trustees-City Colleges of Chicago - Malcolm X College,1900 W Van Buren St ,8507000,, Board Trustees-City Colleges of Chicago - Malcolm X College,1900 W Van Buren St ,8507000,,1
+773,2181,1386,Henry Booth House Allison's,34 E. 115th St. ,8404502,60628,ABRAHAM LINCOLN CENTRE LINCOLN ROSELAND,7 E 119TH ST ,2647633,60628,0
+779,2181,2181,Henry Booth House Allison's,34 E. 115th St. ,8404502,60628,Henry Booth House Allison's,34 E. 115th St. ,8404502,60628,1
+785,1423,2342,CAROLE ROBERTSON CENTER FOR LEARNING FCCH-MARIA CEPEDA,4500 S SAWYER AVE ,,60632, Brighton Park,3825 S. Washtenaw Ave. ,5357235,60632,0
+793,1802,3098,LUTHERAN SOCIAL SERVICES OF ILLINOIS ENGLEWOOD MESSIAH,1910 W 64TH STREET ,4365110,60636, Chicago Urban Day School,1248 W 69th Street ,4833555,60636,0
+799,1912,3083,"Ada S. McKinley
+Community Services McKinley-Maggie Drummond",4301 S. Wabash ,3738200,60653, Centers for New Horizons Raymond School,3663 S Wabash Avenue ,3735673,60653,0
+801,1912,1912,"Ada S. McKinley
+Community Services McKinley-Maggie Drummond",4301 S. Wabash ,3738200,60653,"Ada S. McKinley
+Community Services McKinley-Maggie Drummond",4301 S. Wabash ,3738200,60653,1
+802,1912,2791,"Ada S. McKinley
+Community Services McKinley-Maggie Drummond",4301 S. Wabash ,3738200,60653, St. Paul-Chaney Ford Child Care,4526 S. Wabash  ,2858721,60653,0
+807,1912,364,"Ada S. McKinley
+Community Services McKinley-Maggie Drummond",4301 S. Wabash ,3738200,60653, Ada S. McKinley Maggie Drummond,4301 S. Wabash ,3738200,,1
+810,2991,2991, Uptown Family Care Center,4520 North Beacon Street  ,5613500,60640, Uptown Family Care Center,4520 North Beacon Street  ,5613500,60640,1
+817,837,837, Henry Booth House - Love N Learn Academy,723 E 75th St ,7230338,, Henry Booth House - Love N Learn Academy,723 E 75th St ,7230338,,1
+823,272,272, UIC Children?s Center II - West,1919 W. Taylor (m/c 525) Rm. 128 ,4135326,, UIC Children?s Center II - West,1919 W. Taylor (m/c 525) Rm. 128 ,4135326,,1
+827,2794,2794, Stewart,4525 N. Kenmore ,5342640,60640, Stewart,4525 N. Kenmore ,5342640,60640,1
+838,2885,2214, Chesterfield Tom Thumb Day Care Center & Kindergarten,9208-9214 South Cottage Grove  ,8743985,60619,Henry Booth House The World Is Yours,8026 S Cottage Grove Ave. ,,60619,0
+844,2791,1912, St. Paul-Chaney Ford Child Care,4526 S. Wabash  ,2858721,60653,"Ada S. McKinley
+Community Services McKinley-Maggie Drummond",4301 S. Wabash ,3738200,60653,0
+850,2771,2771, Skinner,111 S. Throop ,5347790,60607, Skinner,111 S. Throop ,5347790,60607,1
+852,2771,1313, Skinner,111 S. Throop ,5347790,60607, Skinner,111 S. Throop ,5347790,,1
+853,1313,2771, Skinner,111 S. Throop ,5347790,, Skinner,111 S. Throop ,5347790,60607,1
+855,1056,1056, Waters,4540 N. Campbell ,5345090,, Waters,4540 N. Campbell ,5345090,,1
+859,3282,3282, V and J Day Care Center,1 E 113th Street ,7853940,60628, V and J Day Care Center,1 E 113th Street ,7853940,60628,1
+871,3032,3032, Ada S. McKinley Community Services,4543 S Princeton Avenue ,6249799,60609, Ada S. McKinley Community Services,4543 S Princeton Avenue ,6249799,60609,1
+884,276,2941, Loop Learning Center,2001 S. Michigan Ave. ,2258828,, Loop Learning Center,2001 South Michigan Avenue  ,2258828,60616,1
+889,1575,1575,"CHICAGO PUBLIC SCHOOLS SEWARD, WILLIAM H.",4600 S HERMITAGE AVE ,5354890,60609,"CHICAGO PUBLIC SCHOOLS SEWARD, WILLIAM H.",4600 S HERMITAGE AVE ,5354890,60609,1
+907,1599,1386,CHICAGO STATE UNIVERSITY RAISE UP A CHILD,124 E 113 ST ,7851172,60628,ABRAHAM LINCOLN CENTRE LINCOLN ROSELAND,7 E 119TH ST ,2647633,60628,0
+913,1599,2181,CHICAGO STATE UNIVERSITY RAISE UP A CHILD,124 E 113 ST ,7851172,60628,Henry Booth House Allison's,34 E. 115th St. ,8404502,60628,0
+917,1342,1342," First Step
+Day¬¨‚Ä†Care Center","1300 Pearl Street
+Belvidere",5446560,6100," First Step
+Day¬¨‚Ä†Care Center","1300 Pearl Street
+Belvidere",5446560,6100,1
+934,1495,1495,"CHICAGO PUBLIC SCHOOLS DEPRIEST, OSCAR",139 S PARKSIDE AVE ,5346800,60639,"CHICAGO PUBLIC SCHOOLS DEPRIEST, OSCAR",139 S PARKSIDE AVE ,5346800,60639,1
+939,3325,1851, North Avenue Day Nursery,2001 W Pierce Street ,3424499,60622,NORTH AVENUE DAY NURSERY FCCH-VALERIE MARTIN,2043 W PIERCE ,,60622,0
+951,375,375, Home of Life Just for You,4647 W. Washington ,6268655,, Home of Life Just for You,4647 W. Washington ,6268655,,1
+961,1060,1060, Prussing,4650 N. Menard ,5343460,, Prussing,4650 N. Menard ,5343460,,1
+962,1357,1357," Paxton Day Care
+Center",200 North Elm Street Paxton,3793865,60957," Paxton Day Care
+Center",200 North Elm Street Paxton,3793865,60957,1
+963,278,278, Carole Robertson Center Roosevelt,2020 W. Roosevelt ,2434881,, Carole Robertson Center Roosevelt,2020 W. Roosevelt ,2434881,,1
+967,2220,2220,Home of Life Community Dev. Corp. HLCDC Dev. II,4650 W. Madison ,6268655,60644,Home of Life Community Dev. Corp. HLCDC Dev. II,4650 W. Madison ,6268655,60644,1
+972,135,135, Christopher House - Christopher House - Uptown,4701 N Winthrop Ave ,7694540,, Christopher House - Christopher House - Uptown,4701 N Winthrop Ave ,7694540,,1
+974,2389,2389, Chase,2021 N. Point St. ,5344185,60647, Chase,2021 N. Point St. ,5344185,60647,1
+1043,1503,1503,"CHICAGO PUBLIC SCHOOLS ELLINGTON, EDWARD ""DUKE"" K.",243 NORTH PARKSIDE ,5346361,60644,"CHICAGO PUBLIC SCHOOLS ELLINGTON, EDWARD ""DUKE"" K.",243 NORTH PARKSIDE ,5346361,60644,1
+1050,2390,2390, Chavez (Yr Round),4747 S. Marshfield ,5354600,60609, Chavez (Yr Round),4747 S. Marshfield ,5354600,60609,1
+1067,1521,1521,"CHICAGO PUBLIC SCHOOLS HERBERT, VICTOR",2131 W MONROE ,5347806,60612,"CHICAGO PUBLIC SCHOOLS HERBERT, VICTOR",2131 W MONROE ,5347806,60612,1
+1068,972,972, Chappell,2135 W. Foster ,5342390,, Chappell,2135 W. Foster ,5342390,,1
+1086,1542,1542,"CHICAGO PUBLIC SCHOOLS MAYO, WILLIAM J. & CHARLES H.",249 E 39TH ST ,5351260,60653,"CHICAGO PUBLIC SCHOOLS MAYO, WILLIAM J. & CHARLES H.",249 E 39TH ST ,5351260,60653,1
+1089,1472,2397,"CHICAGO PUBLIC SCHOOLS BEETHOVEN, LUDWIG V.",25 W 47TH ST ,5351480,60609, Chicago Commons PauloFreire,1653 W. 43rd St ,8266260,60609,0
+1101,381,1441, Catholic Charities - St. Joseph,4800 S. Paulina ,9272524,,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO ST. JOSEPH,4800 S PAULINA ,9272524,60609,1
+1102,683,683, Henry Booth House - Little Leaders of Tomorrow,301 N Mayfield Ave ,3788302,, Henry Booth House - Little Leaders of Tomorrow,301 N Mayfield Ave ,3788302,,1
+1107,1441,1441,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO ST. JOSEPH,4800 S PAULINA ,9272524,60609,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO ST. JOSEPH,4800 S PAULINA ,9272524,60609,1
+1116,624,624, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,,1
+1118,624,1181, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,,1
+1127,1180,624, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,,1
+1128,1180,625, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,, Chinese American Service League - Chinese American Service League,2141 S Tan Ct ,7910418,,1
+1140,2877,2877, Bright Horizons at River East,325 East Grand Avenue  ,9265437,60611, Bright Horizons at River East,325 East Grand Avenue  ,9265437,60611,1
+1141,203,203, Parker CPC,328 W. 69Th ,5353853,, Parker CPC,328 W. 69Th ,5353853,,1
+1142,203,2712, Parker CPC,328 W. 69Th ,5353853,, Parker CPC,328 W. 69Th  ,5353853,60621,1
+1144,2712,1864, Parker CPC,328 W. 69Th  ,5353853,60621,SALVATION ARMY BUILDING BLOCKS,1120 W 69TH ST ,4882222,60621,0
+1150,1554,1554,"CHICAGO PUBLIC SCHOOLS NASH, HENRY H.",4837 W ERIE ST ,5346125,60644,"CHICAGO PUBLIC SCHOOLS NASH, HENRY H.",4837 W ERIE ST ,5346125,60644,1
+1154,1554,2634,"CHICAGO PUBLIC SCHOOLS NASH, HENRY H.",4837 W ERIE ST ,5346125,60644, Marcy Newberry Austin Town,5610 W. Lake St. ,2611505,60644,0
+1160,2981,2981, St. Vincent de Paul Center,2145 North Halsted Street  ,9436776,60614, St. Vincent de Paul Center,2145 North Halsted Street  ,9436776,60614,1
+1165,3240,2661, Onward Neighborhood House - After School,2158 W Ohio Street ,2437920,60612, Mitchell,2233 W. Ohio ,5347655,60612,0
+1166,3240,3240, Onward Neighborhood House - After School,2158 W Ohio Street ,2437920,60612, Onward Neighborhood House - After School,2158 W Ohio Street ,2437920,60612,1
+1170,973,973, Mozart,2200 N. Hamlin ,5344160,, Mozart,2200 N. Hamlin ,5344160,,1
+1171,2631,2631, Lutheran Social Services-Winthrop,4848 N. Winthrop ,8783210,60640, Lutheran Social Services-Winthrop,4848 N. Winthrop ,8783210,60640,1
+1185,1368,2706,"Healthy Parents and Babies Program
+(Directly Operated Programs) Hayes Center","4859 S. Wabash Ave.
+2nd floor
+",3738670,60615, Ounce of Prev EC Center I/T,5044 S Wabash ,9242334,60615,0
+1186,1368,1606,"Healthy Parents and Babies Program
+(Directly Operated Programs) Hayes Center","4859 S. Wabash Ave.
+2nd floor
+",3738670,60615,CHICAGO YOUTH CENTERS CUDDLE CARE ACADEMY,4800 S LAKE PARK AVE ,2851114,60615,0
+1189,1368,1368,"Healthy Parents and Babies Program
+(Directly Operated Programs) Hayes Center","4859 S. Wabash Ave.
+2nd floor
+",3738670,60615,"Healthy Parents and Babies Program
+(Directly Operated Programs) Hayes Center","4859 S. Wabash Ave.
+2nd floor
+",3738670,60615,1
+1191,1368,2705,"Healthy Parents and Babies Program
+(Directly Operated Programs) Hayes Center","4859 S. Wabash Ave.
+2nd floor
+",3738670,60615, Ounce of Prev EC Center,5044 S Wabash ,9242334,60615,0
+1194,2136,2910,Easter Seals Society of Metropolitan Chicago Near South Side Child Development Center,2214 S Federal St ,5483614,60616, Easter Seals Near South Side Child Development Center,2214 South Federal Street  ,5483614,60616,1
+1197,1348,1348, Kiddie Kollege of Fairfield,"2226 Mt. Vernon Road
+P.O. Box 362
+Fairfield",8477102,62837, Kiddie Kollege of Fairfield,"2226 Mt. Vernon Road
+P.O. Box 362
+Fairfield",8477102,62837,1
+1208,2278,2278,Westside Holistic Family Services WESTSIDE HOLISTIC FAMILY SERVICES,4909 W. Division ,9218777,60651,Westside Holistic Family Services WESTSIDE HOLISTIC FAMILY SERVICES,4909 W. Division ,9218777,60651,1
+1212,2278,2755,Westside Holistic Family Services WESTSIDE HOLISTIC FAMILY SERVICES,4909 W. Division ,9218777,60651, Salvation Army New Hope,4255 W. Division  ,7724908,60651,0
+1220,2661,3240, Mitchell,2233 W. Ohio ,5347655,60612, Onward Neighborhood House - After School,2158 W Ohio Street ,2437920,60612,0
+1239,2524,2524, Goethe,2236 N. Rockwell ,5344135,60647, Goethe,2236 N. Rockwell ,5344135,60647,1
+1275,1797,1797,HULL HOUSE ASSOCIATION PARKWAY COMMUNITY CENTER,500 E 67TH STREET ,4931306,60637,HULL HOUSE ASSOCIATION PARKWAY COMMUNITY CENTER,500 E 67TH STREET ,4931306,60637,1
+1281,2966,2966, Parkway Community House Child Care,500 East 67th Street  ,4931306,60637, Parkway Community House Child Care,500 East 67th Street  ,4931306,60637,1
+1286,2966,1797, Parkway Community House Child Care,500 East 67th Street  ,4931306,60637,HULL HOUSE ASSOCIATION PARKWAY COMMUNITY CENTER,500 E 67TH STREET ,4931306,60637,1
+1292,3254,3254, Salvation Army - Columbus Park School,500 S Central Avenue ,9214162,60644, Salvation Army - Columbus Park School,500 S Central Avenue ,9214162,60644,1
+1317,70,70, Chicago State University - Kenyatta's Day Care,2334 E 75th ,2213777,, Chicago State University - Kenyatta's Day Care,2334 E 75th ,2213777,,1
+1318,2705,2706, Ounce of Prev EC Center,5044 S Wabash ,9242334,60615, Ounce of Prev EC Center I/T,5044 S Wabash ,9242334,60615,1
+1322,2705,1368, Ounce of Prev EC Center,5044 S Wabash ,9242334,60615,"Healthy Parents and Babies Program
+(Directly Operated Programs) Hayes Center","4859 S. Wabash Ave.
+2nd floor
+",3738670,60615,0
+1332,2706,2705, Ounce of Prev EC Center I/T,5044 S Wabash ,9242334,60615, Ounce of Prev EC Center,5044 S Wabash ,9242334,60615,1
+1371,2785,2785, Spry,2400 S. Marshall Bl ,5341700,60623, Spry,2400 S. Marshall Bl ,5341700,60623,1
+1372,2007,2631,"Chicago Public Schools Goudy, William C.",5120 N. Winthrop ,5342480,60640, Lutheran Social Services-Winthrop,4848 N. Winthrop ,8783210,60640,0
+1383,2871,3041, Albany Park Head Start,5101 N. Kimball  ,5095657,60625, Albany Park Community Center - Kimball,5121 N Kimball Avenue ,5095650,60625,1
+1396,2964,2964, Our Lady of Tepeyac ,2414 South Albany Avenue  ,2775888,60623, Our Lady of Tepeyac ,2414 South Albany Avenue  ,2775888,60623,1
+1407,3041,2871, Albany Park Community Center - Kimball,5121 N Kimball Avenue ,5095650,60625, Albany Park Head Start,5101 N. Kimball  ,5095657,60625,1
+1411,74,74, YMCA of Metropolitan Chicago - High Ridge YMCA,2424 W Touhy Ave ,2628300,, YMCA of Metropolitan Chicago - High Ridge YMCA,2424 W Touhy Ave ,2628300,,1
+1412,780,3278, Trinity United Church of Christ - Trinity United,532 W 95th St ,4883511,, Trinity Day Care Center,532 W 95th Street ,4883511,60628,1
+1413,780,780, Trinity United Church of Christ - Trinity United,532 W 95th St ,4883511,, Trinity United Church of Christ - Trinity United,532 W 95th St ,4883511,,1
+1417,3278,3278, Trinity Day Care Center,532 W 95th Street ,4883511,60628, Trinity Day Care Center,532 W 95th Street ,4883511,60628,1
+1425,3278,780, Trinity Day Care Center,532 W 95th Street ,4883511,60628, Trinity United Church of Christ - Trinity United,532 W 95th St ,4883511,,1
+1440,1992,1992,"Chicago Public Schools Doolittle, James R.",535 East 35th Street ,5351040,60653,"Chicago Public Schools Doolittle, James R.",535 East 35th Street ,5351040,60653,1
+1443,2109,2109,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,1
+1446,2109,1857,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,ONWARD NEIGHBORHOOD HOUSE LEE'S CUDDLES N CARE,6100 W NORTH AVENUE ,7458054,60639,0
+1447,2109,1859,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,0
+1461,3055,3055, Bunnyland Developmental Day Care Center,545 W 119th Street ,5685200,60628, Bunnyland Developmental Day Care Center,545 W 119th Street ,5685200,60628,1
+1468,2216,2216,Henry Booth House Wee Wee Center for Creative,2434 W 71ST St. ,4710869,60629,Henry Booth House Wee Wee Center for Creative,2434 W 71ST St. ,4710869,60629,1
+1476,2685,2685, Nightingale,5250 S. Rockwell ,5359270,60632, Nightingale,5250 S. Rockwell ,5359270,60632,1
+1479,156,156, Onward Neighborhood House - Onward Neighborhood House,600 N Leavitt St ,6666726,, Onward Neighborhood House - Onward Neighborhood House,600 N Leavitt St ,6666726,,1
+1486,2255,2255,Onward Neighborhood House Onward Neighborhood House - West Town,600 N. Leavitt St. ,6666726,60612,Onward Neighborhood House Onward Neighborhood House - West Town,600 N. Leavitt St. ,6666726,60612,1
+1495,2701,2255, Onward House,600 N. Leavitt ,6666729,60612,Onward Neighborhood House Onward Neighborhood House - West Town,600 N. Leavitt St. ,6666726,60612,1
+1497,1623,1623,CHRISTOPHER HOUSE GREENVIEW,2507 N GREENVIEW ,4721083,60614,CHRISTOPHER HOUSE GREENVIEW,2507 N GREENVIEW ,4721083,60614,1
+1501,3057,3057, C.C.C. Learning Center,610 S Canal Street ,3538687,60606, C.C.C. Learning Center,610 S Canal Street ,3538687,60606,1
+1530,3224,3224, Marcy Newberry Association - Rockwell Center,2540 W Jackson Boulevard ,6662931,60612, Marcy Newberry Association - Rockwell Center,2540 W Jackson Boulevard ,6662931,60612,1
+1538,988,988, Carroll-Rosenwald Br,2541 W. 80th St ,5359355,, Carroll-Rosenwald Br,2541 W. 80th St ,5359355,,1
+1543,2183,2183,Henry Booth House Angel Wings,5365 W Noth ,7450262,60639,Henry Booth House Angel Wings,5365 W Noth ,7450262,60639,1
+1550,2017,2932,"Chicago Public Schools Hinton, William Augustus",644 W. 71st Street ,5353875,60621, Kennedy-King College Child Development Lab Center,710 W. 65th Street Building Z ,6025481,60621,0
+1551,2017,2017,"Chicago Public Schools Hinton, William Augustus",644 W. 71st Street ,5353875,60621,"Chicago Public Schools Hinton, William Augustus",644 W. 71st Street ,5353875,60621,1
+1555,1737,2186,HENRY BOOTH HOUSE COLOR FOR TOTS,2550 E 73RD ST ,3638687,60649,Henry Booth House Color For Tots,2550 E. 73rd St. ,3638687,60649,1
+1560,2186,1737,Henry Booth House Color For Tots,2550 E. 73rd St. ,3638687,60649,HENRY BOOTH HOUSE COLOR FOR TOTS,2550 E 73RD ST ,3638687,60649,1
+1562,2186,2186,Henry Booth House Color For Tots,2550 E. 73rd St. ,3638687,60649,Henry Booth House Color For Tots,2550 E. 73rd St. ,3638687,60649,1
+1584,2787,2787, St Augustine - Nayarit HS,2610 W. 25th Pl. ,8783653,60608, St Augustine - Nayarit HS,2610 W. 25th Pl. ,8783653,60608,1
+1589,78,651, Christopher House - Christopher House - Logan Square,2610 N Francisco Ave ,2354073,, Christopher House - Christopher House - Logan Square,2610 N Francisco Ave ,2354073,,1
+1596,2932,2932, Kennedy-King College Child Development Lab Center,710 W. 65th Street Building Z ,6025481,60621, Kennedy-King College Child Development Lab Center,710 W. 65th Street Building Z ,6025481,60621,1
+1597,2932,2017, Kennedy-King College Child Development Lab Center,710 W. 65th Street Building Z ,6025481,60621,"Chicago Public Schools Hinton, William Augustus",644 W. 71st Street ,5353875,60621,0
+1603,1859,2109,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,0
+1607,1859,1859,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,1
+1608,1859,2253,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,Onward Neighborhood House New Beginnings,5445 W. North Ave. ,3855365,60639,1
+1613,1386,1386,ABRAHAM LINCOLN CENTRE LINCOLN ROSELAND,7 E 119TH ST ,2647633,60628,ABRAHAM LINCOLN CENTRE LINCOLN ROSELAND,7 E 119TH ST ,2647633,60628,1
+1619,1386,2181,ABRAHAM LINCOLN CENTRE LINCOLN ROSELAND,7 E 119TH ST ,2647633,60628,Henry Booth House Allison's,34 E. 115th St. ,8404502,60628,0
+1625,2253,2109,Onward Neighborhood House New Beginnings,5445 W. North Ave. ,3855365,60639,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,0
+1628,2253,1857,Onward Neighborhood House New Beginnings,5445 W. North Ave. ,3855365,60639,ONWARD NEIGHBORHOOD HOUSE LEE'S CUDDLES N CARE,6100 W NORTH AVENUE ,7458054,60639,0
+1629,2253,1859,Onward Neighborhood House New Beginnings,5445 W. North Ave. ,3855365,60639,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,1
+1645,1446,1446,CHICAGO COMMONS ASSOCIATION A-Z MALL WORLD,2629 S LAWNDALE ,,60623,CHICAGO COMMONS ASSOCIATION A-Z MALL WORLD,2629 S LAWNDALE ,,60623,1
+1652,3182,3182, Hyde Park Neighborhood Club,5480 S Kenwood Avenue ,6434062,60615, Hyde Park Neighborhood Club,5480 S Kenwood Avenue ,6434062,60615,1
+1657,2677,2956, NE Ill Univ Child Care Center,5500 N. St Louis ,5390570,60625, Northeastern Illinois University Child Care Center,5500 North Saint Louis Avenue  ,4424540,60625,1
+1661,2677,2677, NE Ill Univ Child Care Center,5500 N. St Louis ,5390570,60625, NE Ill Univ Child Care Center,5500 N. St Louis ,5390570,60625,1
+1662,2956,2956, Northeastern Illinois University Child Care Center,5500 North Saint Louis Avenue  ,4424540,60625, Northeastern Illinois University Child Care Center,5500 North Saint Louis Avenue  ,4424540,60625,1
+1663,2956,2970, Northeastern Illinois University Child Care Center,5500 North Saint Louis Avenue  ,4424540,60625, Ravenswood Community Child Care Center,4908 North Damen Avenue  ,2714495,60625,0
+1670,1796,1796,HULL HOUSE ASSOCIATION ORR INFANT TODDLER PROGRAM,730 N PULASKI RD ,8261090,60624,HULL HOUSE ASSOCIATION ORR INFANT TODDLER PROGRAM,730 N PULASKI RD ,8261090,60624,1
+1682,2963,1796, Orr Infant and Family Development Center,730 North Pulaski Road  ,8261090,60624,HULL HOUSE ASSOCIATION ORR INFANT TODDLER PROGRAM,730 N PULASKI RD ,8261090,60624,1
+1691,657,1259, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,,1
+1693,657,657, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,,1
+1694,175,175, Chicago Commons Association - Nia Family Center,744 N Monticello Ave ,8266971,, Chicago Commons Association - Nia Family Center,744 N Monticello Ave ,8266971,,1
+1695,443,443, Chicago Commons NIA,744 N. Monticello ,8264259,, Chicago Commons NIA,744 N. Monticello ,8264259,,1
+1698,1259,657, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,,1
+1699,2517,1259, Gads Hill Child Care,2653 W. Ogden ,5211196,60608, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,,1
+1707,2517,657, Gads Hill Child Care,2653 W. Ogden ,5211196,60608, Gads Hill Center - Sinai Community/Ogden,2653 W Ogden Ave ,5211196,,1
+1711,1573,1413,"CHICAGO PUBLIC SCHOOLS SANDOVAL, SOCORRO",5534 S SAINT LOUIS AVE ,5350457,60629,CAROLE ROBERTSON CENTER FOR LEARNING FCCH-ANGELITA YUGSI,6447 S KNOX AVE ,5211600,60629,0
+1717,1573,1573,"CHICAGO PUBLIC SCHOOLS SANDOVAL, SOCORRO",5534 S SAINT LOUIS AVE ,5350457,60629,"CHICAGO PUBLIC SCHOOLS SANDOVAL, SOCORRO",5534 S SAINT LOUIS AVE ,5350457,60629,1
+1729,1653,1573,EL HOGAR DEL NINO FCCH-MARIA GUZMAN,5548 S TRIPP AVE ,7354542,60629,"CHICAGO PUBLIC SCHOOLS SANDOVAL, SOCORRO",5534 S SAINT LOUIS AVE ,5350457,60629,0
+1730,1653,1653,EL HOGAR DEL NINO FCCH-MARIA GUZMAN,5548 S TRIPP AVE ,7354542,60629,EL HOGAR DEL NINO FCCH-MARIA GUZMAN,5548 S TRIPP AVE ,7354542,60629,1
+1736,2634,2634, Marcy Newberry Austin Town,5610 W. Lake St. ,2611505,60644, Marcy Newberry Austin Town,5610 W. Lake St. ,2611505,60644,1
+1743,3221,2634, Marcy Newberry Association - Austin Town Hall,5610 W Lake Street ,2611505,60644, Marcy Newberry Austin Town,5610 W. Lake St. ,2611505,60644,1
+1747,409,409, Lake Shore Schools - Clark,5611 N. Clark Street ,5616707,, Lake Shore Schools - Clark,5611 N. Clark Street ,5616707,,1
+1748,1793,1864,HULL HOUSE ASSOCIATION KINGS KIDDIE KINGDOM,815 W 74TH ST ,,60621,SALVATION ARMY BUILDING BLOCKS,1120 W 69TH ST ,4882222,60621,0
+1756,3202,3202, Lake Shore School,5611 N Clark Street ,5616707,60660, Lake Shore School,5611 N Clark Street ,5616707,60660,1
+1760,1138,1138, Greeley,832 W. Sheridan ,5345800,, Greeley,832 W. Sheridan ,5345800,,1
+1761,456,456," Terry Town Nursery School, Inc.",817 N. Hamlin ,4894271,," Terry Town Nursery School, Inc.",817 N. Hamlin ,4894271,,1
+1762,1085,1085, Hitch,5625 N. Mcvicker ,5341189,, Hitch,5625 N. Mcvicker ,5341189,,1
+1763,1087,2739, Ray,5631 S Kimbark ,5350970,, Ray,5631 S Kimbark ,5350970,60637,1
+1779,867,867, Christopher House - Christopher House - Lakeshore,850 W Eastwood Ave ,2719403,, Christopher House - Christopher House - Lakeshore,850 W Eastwood Ave ,2719403,,1
+1790,2420,2420, Christopher House Lakeshore,850 W. Eastwood ,2719403,60640, Christopher House Lakeshore,850 W. Eastwood ,2719403,60640,1
+1821,1089,1089, Carter,5740 S. Michigan Ave. ,5350860,, Carter,5740 S. Michigan Ave. ,5350860,,1
+1837,1661,1661,EL VALOR FCCH-PATRICIA COBA,2719 S MILLARD ,5222345,60623,EL VALOR FCCH-PATRICIA COBA,2719 S MILLARD ,5222345,60623,1
+1854,2959,2959, Norwood Park Preschool for All,5900 North Nina Avenue  ,5341162,60631, Norwood Park Preschool for All,5900 North Nina Avenue  ,5341162,60631,1
+1856,2764,2764, Schubert,2727 N. Long ,5343080,60639, Schubert,2727 N. Long ,5343080,60639,1
+1876,2274,2274,Trinity Resources Unlimited Inc High Mountain,919 N. Lavergne ,6263997,60651,Trinity Resources Unlimited Inc High Mountain,919 N. Lavergne ,6263997,60651,1
+1890,191,191, Haymarket Center - Haymarket Center,932 W Washington Blvd ,2267984,, Haymarket Center - Haymarket Center,932 W Washington Blvd ,2267984,,1
+1917,998,998, Whitney,2815 S. Komensky ,5341560,, Whitney,2815 S. Komensky ,5341560,,1
+1926,2607,2607, Kozminski Com Acad,936 E. 54th St. ,5350980,60615, Kozminski Com Acad,936 E. 54th St. ,5350980,60615,1
+1929,312,312, Mary Crane West,2820 N. Leavitt ,3485528,, Mary Crane West,2820 N. Leavitt ,3485528,,1
+1932,2050,2050,Chicago Public Schools Nicholson Math and Science,6006 S Peoria St ,5353285,60621,Chicago Public Schools Nicholson Math and Science,6006 S Peoria St ,5353285,60621,1
+1942,1857,2109,ONWARD NEIGHBORHOOD HOUSE LEE'S CUDDLES N CARE,6100 W NORTH AVENUE ,7458054,60639,Chicago Youth Centers Rachel's 2,5242 W. North Ave ,2371444,60639,0
+1946,1857,1859,ONWARD NEIGHBORHOOD HOUSE LEE'S CUDDLES N CARE,6100 W NORTH AVENUE ,7458054,60639,ONWARD NEIGHBORHOOD HOUSE NEW BEGINNINGS,5445 W NORTH AVENUE ,3855365,60639,0
+1973,3184,3184, JCYS Lakeview Family Center,957 W Grace Street ,2812533,60613, JCYS Lakeview Family Center,957 W Grace Street ,2812533,60613,1
+1976,803,803, Fiske,6145 S. Ingleside ,5350990,, Fiske,6145 S. Ingleside ,5350990,,1
+1985,2000,2000,"Chicago Public Schools Fiske, John",6145 South Ingleside ,5350990,60637,"Chicago Public Schools Fiske, John",6145 South Ingleside ,5350990,60637,1
+1989,247,247, Little Kiddies Day Care,1447 W. Devon ,4657702,, Little Kiddies Day Care,1447 W. Devon ,4657702,,1
+2001,89,89, Henry Booth House - Near South / Henry Booth,2929 S Wabash Ave ,7910424,, Henry Booth House - Near South / Henry Booth,2929 S Wabash Ave ,7910424,,1
+2005,2412,2412, ChildServ St. Matthew,1000 N. Orleans  ,9443403,60610, ChildServ St. Matthew,1000 N. Orleans  ,9443403,60610,1
+2007,3112,3112, ChildServ - St Matthew Head Start,1000 N Orleans Street ,9443403,60610, ChildServ - St Matthew Head Start,1000 N Orleans Street ,9443403,60610,1
+2019,2228,2228,Lutheran Social Services of Illinois TRINIDAD LUTHERAN,2921 W. Division ,6354600,60622,Lutheran Social Services of Illinois TRINIDAD LUTHERAN,2921 W. Division ,6354600,60622,1
+2022,1639,1639,EASTER SEALS SOCIETY OF METROPOLITAN CHICAGO GILCHRIST MARCHMAN,1001 W ROOSEVELT RD 606 ,4927402,81559,EASTER SEALS SOCIETY OF METROPOLITAN CHICAGO GILCHRIST MARCHMAN,1001 W ROOSEVELT RD 606 ,4927402,81559,1
+2035,3086,3086, Centers for New Horizons Washington Park,6225 S Wabash Avenue ,6672065,60637, Centers for New Horizons Washington Park,6225 S Wabash Avenue ,6672065,60637,1
+2044,160,160, El Valor - Kidz Colony,6287 S Archer Ave ,7678522,, El Valor - Kidz Colony,6287 S Archer Ave ,7678522,,1
+2045,1798,1798,HULL HOUSE ASSOCIATION UPTOWN - EAST,1020 W BRYN MAWR ,7695753,60660,HULL HOUSE ASSOCIATION UPTOWN - EAST,1020 W BRYN MAWR ,7695753,60660,1
+2049,1798,2870,HULL HOUSE ASSOCIATION UPTOWN - EAST,1020 W BRYN MAWR ,7695753,60660, Albany Park Community Center - Uptown,1020 West Bryn Mawr 211 ,7693197,60660,1
+2050,2870,1798, Albany Park Community Center - Uptown,1020 West Bryn Mawr 211 ,7693197,60660,HULL HOUSE ASSOCIATION UPTOWN - EAST,1020 W BRYN MAWR ,7695753,60660,1
+2053,2870,2718, Albany Park Community Center - Uptown,1020 West Bryn Mawr 211 ,7693197,60660, Peirce,1423 W. Bryn Mawr ,5342440,60660,0
+2057,1265,1265, Mary Crane League - Mary Crane - East,2974 N Clybourn Ave ,3485528,, Mary Crane League - Mary Crane - East,2974 N Clybourn Ave ,3485528,,1
+2060,2058,3048,"Chicago Public Schools Piccolo Specialty School, Brian",1040 N. Keeler Avenue ,5344425,60651, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651,0
+2061,2058,2058,"Chicago Public Schools Piccolo Specialty School, Brian",1040 N. Keeler Avenue ,5344425,60651,"Chicago Public Schools Piccolo Specialty School, Brian",1040 N. Keeler Avenue ,5344425,60651,1
+2063,2058,521,"Chicago Public Schools Piccolo Specialty School, Brian",1040 N. Keeler Avenue ,5344425,60651, Piccolo,1040 N. Keeler ,5344425,,1
+2069,2058,3223,"Chicago Public Schools Piccolo Specialty School, Brian",1040 N. Keeler Avenue ,5344425,60651, Marcy Newberry Association - North Austin Headstart,1256 N Waller Avenue ,2611700,60651,0
+2081,1350,1350, Mary Crane League,2974 North Clybourn Avenue,9388157,60618, Mary Crane League,2974 North Clybourn Avenue,9388157,60618,1
+2086,2624,2624, Lovett,6333 W. Bloomingdale ,5343130,60639, Lovett,6333 W. Bloomingdale ,5343130,60639,1
+2091,2624,1100, Lovett,6333 W. Bloomingdale ,5343130,60639, Lovett,6333 W. Bloomingdale ,5343130,,1
+2095,1676,1676,EL VALOR TEDDY BEAR 3 (6401 S PULASKI RD),6401 S PULASKI ,2842292,60629,EL VALOR TEDDY BEAR 3 (6401 S PULASKI RD),6401 S PULASKI ,2842292,60629,1
+2116,3206,3206, Little Angels Day Care Center,6407 N Maplewood ,3389770,60645, Little Angels Day Care Center,6407 N Maplewood ,3389770,60645,1
+2121,320,2582, Irving Park Early Learning Center,3023 W. Montrose ,5397422,, Irving Park Early Learning Ctr,3023 W. Montrose ,5397422,60618,1
+2124,2582,320, Irving Park Early Learning Ctr,3023 W. Montrose ,5397422,60618, Irving Park Early Learning Center,3023 W. Montrose ,5397422,,1
+2133,2582,2582, Irving Park Early Learning Ctr,3023 W. Montrose ,5397422,60618, Irving Park Early Learning Ctr,3023 W. Montrose ,5397422,60618,1
+2136,3183,320, Irving Park Early Learning Center,3023 W Montrose Avenue ,5397422,60618, Irving Park Early Learning Center,3023 W. Montrose ,5397422,,1
+2137,3183,3183, Irving Park Early Learning Center,3023 W Montrose Avenue ,5397422,60618, Irving Park Early Learning Center,3023 W Montrose Avenue ,5397422,60618,1
+2145,3183,2582, Irving Park Early Learning Center,3023 W Montrose Avenue ,5397422,60618, Irving Park Early Learning Ctr,3023 W. Montrose ,5397422,60618,1
+2158,3060,3060, Care-a-Lot Child Development Center,6441 N Central Avenue ,7638888,60646, Care-a-Lot Child Development Center,6441 N Central Avenue ,7638888,60646,1
+2164,1413,1413,CAROLE ROBERTSON CENTER FOR LEARNING FCCH-ANGELITA YUGSI,6447 S KNOX AVE ,5211600,60629,CAROLE ROBERTSON CENTER FOR LEARNING FCCH-ANGELITA YUGSI,6447 S KNOX AVE ,5211600,60629,1
+2170,1413,1573,CAROLE ROBERTSON CENTER FOR LEARNING FCCH-ANGELITA YUGSI,6447 S KNOX AVE ,5211600,60629,"CHICAGO PUBLIC SCHOOLS SANDOVAL, SOCORRO",5534 S SAINT LOUIS AVE ,5350457,60629,0
+2173,1222,1891, Woodlawn A.M.E. Church - Woodlawn A.M.E.,6456 S Evans Ave ,6671402,,WOODLAWN A.M.E. CHURCH WOODLAWN AME CHURCH,6456 S EVANS ,6671402,60637,1
+2174,1222,1222, Woodlawn A.M.E. Church - Woodlawn A.M.E.,6456 S Evans Ave ,6671402,, Woodlawn A.M.E. Church - Woodlawn A.M.E.,6456 S Evans Ave ,6671402,,1
+2180,1891,1891,WOODLAWN A.M.E. CHURCH WOODLAWN AME CHURCH,6456 S EVANS ,6671402,60637,WOODLAWN A.M.E. CHURCH WOODLAWN AME CHURCH,6456 S EVANS ,6671402,60637,1
+2182,1891,1222,WOODLAWN A.M.E. CHURCH WOODLAWN AME CHURCH,6456 S EVANS ,6671402,60637, Woodlawn A.M.E. Church - Woodlawn A.M.E.,6456 S Evans Ave ,6671402,,1
+2187,96,1266, YMCA of Metropolitan Chicago - South Chicago YMCA,3039 E 91st St ,7219100,, YMCA of Metropolitan Chicago - South Chicago YMCA,3039 E 91st St ,7219100,,1
+2188,96,96, YMCA of Metropolitan Chicago - South Chicago YMCA,3039 E 91st St ,7219100,, YMCA of Metropolitan Chicago - South Chicago YMCA,3039 E 91st St ,7219100,,1
+2190,1266,96, YMCA of Metropolitan Chicago - South Chicago YMCA,3039 E 91st St ,7219100,, YMCA of Metropolitan Chicago - South Chicago YMCA,3039 E 91st St ,7219100,,1
+2197,2301,2301, Ariel Comm,1119 E. 46th St. ,5351996,60653, Ariel Comm,1119 E. 46th St. ,5351996,60653,1
+2202,1864,2712,SALVATION ARMY BUILDING BLOCKS,1120 W 69TH ST ,4882222,60621, Parker CPC,328 W. 69Th  ,5353853,60621,0
+2214,1233,3048, Bethel New Life - Molade Child Development Center,1120 N Lamon Ave ,6267760,, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651,1
+2216,1233,2329, Bethel New Life - Molade Child Development Center,1120 N Lamon Ave ,6267760,, Bethel New Life,1120 N. Lamon ,6267760,60651,1
+2223,2329,2329, Bethel New Life,1120 N. Lamon ,6267760,60651, Bethel New Life,1120 N. Lamon ,6267760,60651,1
+2231,3048,3048, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651,1
+2235,3048,1233, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651, Bethel New Life - Molade Child Development Center,1120 N Lamon Ave ,6267760,,1
+2236,3048,2329, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651, Bethel New Life,1120 N. Lamon ,6267760,60651,1
+2240,3048,3223, Bethel New Life School,1120 N Lamon Avenue ,6267760,60651, Marcy Newberry Association - North Austin Headstart,1256 N Waller Avenue ,2611700,60651,0
+2251,2345,2345, Brownell,6741 S. Michigan ,5353030,60637, Brownell,6741 S. Michigan ,5353030,60637,1
+2255,1012,1012, Cleveland,3121 W. Byron ,5345130,, Cleveland,3121 W. Byron ,5345130,,1
+2261,1872,1872,SALVATION ARMY FCCH-MILDRED SPEARS,6749 S WINCHESTER ,9301832,60636,SALVATION ARMY FCCH-MILDRED SPEARS,6749 S WINCHESTER ,9301832,60636,1
+2272,536,536, Henry Booth House - Accounters/Partners,1155 W 81st St ,9945514,, Henry Booth House - Accounters/Partners,1155 W 81st St ,9945514,,1
+2293,2998,2998, YMCA Marshall Child Development Center,3201 West Monroe  ,2650145,60624, YMCA Marshall Child Development Center,3201 West Monroe  ,2650145,60624,1
+2295,428,2128," Fresh Start Daycare, Inc.",6924 W. North Avenue ,4792870,,Easter Seals Society of Metropolitan Chicago Fresh Start Day Care Center,6924 W. North Avenue ,4792870,60635,1
+2296,428,428," Fresh Start Daycare, Inc.",6924 W. North Avenue ,4792870,," Fresh Start Daycare, Inc.",6924 W. North Avenue ,4792870,,1
+2297,101,101, Metropolitan Family Services - Midway Children's Center (Chicago Lawn),3215 W 63rd St ,8842350,, Metropolitan Family Services - Midway Children's Center (Chicago Lawn),3215 W 63rd St ,8842350,,1
+2298,101,3232, Metropolitan Family Services - Midway Children's Center (Chicago Lawn),3215 W 63rd St ,8842350,, Metropolitan Family Services Children's Center,3215 W 63rd Street ,8842350,60629,1
+2304,1448,3098,CHICAGO COMMONS ASSOCIATION CHICAGO URBAN DAYCARE,1248 W 69TH ST ,4833555,60636, Chicago Urban Day School,1248 W 69th Street ,4833555,60636,1
+2308,3098,1802, Chicago Urban Day School,1248 W 69th Street ,4833555,60636,LUTHERAN SOCIAL SERVICES OF ILLINOIS ENGLEWOOD MESSIAH,1910 W 64TH STREET ,4365110,60636,0
+2320,1558,1558,"CHICAGO PUBLIC SCHOOLS O'KEEFFE, ISABELL C.",6940 S MERRILL ,5350600,60649,"CHICAGO PUBLIC SCHOOLS O'KEEFFE, ISABELL C.",6940 S MERRILL ,5350600,60649,1
+2323,3223,2058, Marcy Newberry Association - North Austin Headstart,1256 N Waller Avenue ,2611700,60651,"Chicago Public Schools Piccolo Specialty School, Brian",1040 N. Keeler Avenue ,5344425,60651,0
+2330,3223,3223, Marcy Newberry Association - North Austin Headstart,1256 N Waller Avenue ,2611700,60651, Marcy Newberry Association - North Austin Headstart,1256 N Waller Avenue ,2611700,60651,1
+2333,26,26, Easter Seals Society of Metropolitan Chicago - Stepping Stones Early/Childhood Lear,1300 E 75th St ,4930000,, Easter Seals Society of Metropolitan Chicago - Stepping Stones Early/Childhood Lear,1300 E 75th St ,4930000,,1
+2335,3232,101, Metropolitan Family Services Children's Center,3215 W 63rd Street ,8842350,60629, Metropolitan Family Services - Midway Children's Center (Chicago Lawn),3215 W 63rd St ,8842350,,1
+2341,3232,3232, Metropolitan Family Services Children's Center,3215 W 63rd Street ,8842350,60629, Metropolitan Family Services Children's Center,3215 W 63rd Street ,8842350,60629,1
+2356,1536,1536,"CHICAGO PUBLIC SCHOOLS LINNE, CARL VON",3221 N SACRAMENTO ,5345262,60618,"CHICAGO PUBLIC SCHOOLS LINNE, CARL VON",3221 N SACRAMENTO ,5345262,60618,1
+2366,2620,693, Linne,3221 N. Sacramento ,5345262,60618, Linne,3221 N. Sacramento ,5345262,,1
+2370,2620,1536, Linne,3221 N. Sacramento ,5345262,60618,"CHICAGO PUBLIC SCHOOLS LINNE, CARL VON",3221 N SACRAMENTO ,5345262,60618,1
+2377,2300,2300, Altgeld,7007 S. Loomis ,5353250,60636, Altgeld,7007 S. Loomis ,5353250,60636,1
+2383,548,1238, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,,1
+2385,548,1166, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,,1
+2387,1166,548, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,,1
+2388,1166,1166, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,,1
+2389,1237,1238, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,,1
+2390,1237,548, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,, Marcy Newberry Association - FOSCO ABLA Center,1312 S Racine Ave ,7466024,,1
+2393,1957,1957,"Chicago Commons
+Association Rainbow Daycare",3250 W Irving Park Rd ,4788182,60618,"Chicago Commons
+Association Rainbow Daycare",3250 W Irving Park Rd ,4788182,60618,1
+2403,937,937, De Diego,1313 N. Claremont ,5344451,, De Diego,1313 N. Claremont ,5344451,,1
+2404,170,170, Christopher House - Christopher House - Rogers Park,7059 N Greenview Ave ,2745477,, Christopher House - Christopher House - Rogers Park,7059 N Greenview Ave ,2745477,,1
+2405,2195,2195,Henry Booth House Kids Place II,1318 W 95TH St. ,4456500,60643,Henry Booth House Kids Place II,1318 W 95TH St. ,4456500,60643,1
+2421,332,332, Concordia Child Care Center Avondale,3300 N. Whipple ,4631600,, Concordia Child Care Center Avondale,3300 N. Whipple ,4631600,,1
+2425,2499,2499, Eyes on the Future,1329 W. Loyola ,9730771,60626, Eyes on the Future,1329 W. Loyola ,9730771,60626,1
+2432,1376,1378, Adolescent Parenting Program (APP) ,"1335 N. California Ave
+",6452300,60622, Community Service Center,"1343 N. California Ave
+",6452300,60622,0
+2439,1644,2175,EASTER SEALS SOCIETY OF METROPOLITAN CHICAGO LORDANCHILD DAYCARE,3344 W 79TH ST ,4344918,60652,Gads Hill Center M & E Daycare - 79th Street Day Care,3728 W 79th St. ,5857979,60652,0
+2440,1644,1644,EASTER SEALS SOCIETY OF METROPOLITAN CHICAGO LORDANCHILD DAYCARE,3344 W 79TH ST ,4344918,60652,EASTER SEALS SOCIETY OF METROPOLITAN CHICAGO LORDANCHILD DAYCARE,3344 W 79TH ST ,4344918,60652,1
+2441,1644,2134,EASTER SEALS SOCIETY OF METROPOLITAN CHICAGO LORDANCHILD DAYCARE,3344 W 79TH ST ,4344918,60652,Easter Seals Society of Metropolitan Chicago Lordanchild Daycare,3344 W 79th St ,4344918,60652,1
+2445,2134,2134,Easter Seals Society of Metropolitan Chicago Lordanchild Daycare,3344 W 79th St ,4344918,60652,Easter Seals Society of Metropolitan Chicago Lordanchild Daycare,3344 W 79th St ,4344918,60652,1
+2449,1378,1376, Community Service Center,"1343 N. California Ave
+",6452300,60622, Adolescent Parenting Program (APP) ,"1335 N. California Ave
+",6452300,60622,0
+2451,1378,1378, Community Service Center,"1343 N. California Ave
+",6452300,60622, Community Service Center,"1343 N. California Ave
+",6452300,60622,1
+2456,1378,3004, Community Service Center,"1343 N. California Ave
+",6452300,60622, Casa Central - ABC Home-Based Head Start,"1349 N. California
+",6452404,60622,0
+2471,1302,1302, Ada S. McKinley Community Services - McKinley - Howard,7222 S Exchange Ave ,2219711,, Ada S. McKinley Community Services - McKinley - Howard,7222 S Exchange Ave ,2219711,,1
+2484,199,199, Von Humboldt CPC,1345 N. Rockwell ,5344668,, Von Humboldt CPC,1345 N. Rockwell ,5344668,,1
+2488,1911,1911,"Ada S. McKinley
+Community Services McKinley-Ersula Howard",7222 S. Exchange ,2219711,60649,"Ada S. McKinley
+Community Services McKinley-Ersula Howard",7222 S. Exchange ,2219711,60649,1
+2503,1874,1874,SALVATION ARMY INCARNATION,1345 N KARLOV ,2764118,60651,SALVATION ARMY INCARNATION,1345 N KARLOV ,2764118,60651,1
+2520,3004,1376, Casa Central - ABC Home-Based Head Start,"1349 N. California
+",6452404,60622, Adolescent Parenting Program (APP) ,"1335 N. California Ave
+",6452300,60622,0
+2522,3004,1378, Casa Central - ABC Home-Based Head Start,"1349 N. California
+",6452404,60622, Community Service Center,"1343 N. California Ave
+",6452300,60622,0
+2530,30,30, Abraham Lincoln Centre - Hope Presbyterian Church,1354 W 61st St ,4715100,, Abraham Lincoln Centre - Hope Presbyterian Church,1354 W 61st St ,4715100,,1
+2531,1239,1239, Abraham Lincoln Centre - Hope Presbyterian Church,1354 W 61st St ,4715100,, Abraham Lincoln Centre - Hope Presbyterian Church,1354 W 61st St ,4715100,,1
+2539,2978,2978, St. Augustine College/Flamboyan Head Start ,3401 W. McLean Avenue  ,2763423,60647, St. Augustine College/Flamboyan Head Start ,3401 W. McLean Avenue  ,2763423,60647,1
+2555,2096,3100,Chicago Youth Centers ABC,3415 W. 13th Pl. ,7625655,60623, Chicago Youth Centers - ABC Youth Center,3415 W 13th Place ,7625655,60623,1
+2573,3100,3100, Chicago Youth Centers - ABC Youth Center,3415 W 13th Place ,7625655,60623, Chicago Youth Centers - ABC Youth Center,3415 W 13th Place ,7625655,60623,1
+2584,3100,2096, Chicago Youth Centers - ABC Youth Center,3415 W 13th Place ,7625655,60623,Chicago Youth Centers ABC,3415 W. 13th Pl. ,7625655,60623,1
+2591,703,703, Henry Booth House - Pathway,3418 W 79th St ,7765439,, Henry Booth House - Pathway,3418 W 79th St ,7765439,,1
+2592,562,562, Henry Booth House - Taylor Day School,1414 W 87th St ,2392322,, Henry Booth House - Taylor Day School,1414 W 87th St ,2392322,,1
+2593,844,844, Stagg,7424 S. Morgan ,5353565,, Stagg,7424 S. Morgan ,5353565,,1
+2601,2108,2108,Chicago Youth Centers Rachel's 1,3430 W. Roosevelt Rd ,5330444,60624,Chicago Youth Centers Rachel's 1,3430 W. Roosevelt Rd ,5330444,60624,1
+2609,1546,2652,"CHICAGO PUBLIC SCHOOLS MCDOWELL, MARY E.",1419 E 89TH ST ,5356404,60619, McDowell,1419 E. 89th St. ,5356404,60619,1
+2610,1546,2743,"CHICAGO PUBLIC SCHOOLS MCDOWELL, MARY E.",1419 E 89TH ST ,5356404,60619, Revere,1010 E. 72nd St. ,5350618,60619,0
+2626,1539,1539,"CHICAGO PUBLIC SCHOOLS MADISON, JAMES",7433 S DORCHESTER ,5350551,60619,"CHICAGO PUBLIC SCHOOLS MADISON, JAMES",7433 S DORCHESTER ,5350551,60619,1
+2630,942,942, Pilsen,1420 W. 17Th St. ,5347675,, Pilsen,1420 W. 17Th St. ,5347675,,1
+2644,202,3304, Ferguson CPC,1420 N. Hudson ,5348580,, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610,1
+2646,202,897, Ferguson CPC,1420 N. Hudson ,5348580,, Ferguson CPC,1420 N. Hudson ,5348580,,1
+2647,897,3304, Ferguson CPC,1420 N. Hudson ,5348580,, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610,1
+2649,897,897, Ferguson CPC,1420 N. Hudson ,5348580,, Ferguson CPC,1420 N. Hudson ,5348580,,1
+2650,3304,3304, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610,1
+2652,3304,202, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610, Ferguson CPC,1420 N. Hudson ,5348580,,1
+2653,3304,2926, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610, Immaculate Conception,1431 N. North Park Avenue  ,9440304,60610,0
+2654,3304,897, Ferguson CPC,1420 N Hudson Avenue ,5348580,60610, Ferguson CPC,1420 N. Hudson ,5348580,,1
+2656,498,499, YMCA of Metropolitan Chicago - North Lawndale YMCA,3449 W Arthington St ,6380773,, YMCA of Metropolitan Chicago - North Lawndale YMCA,3449 W Arthington St ,6380773,,1
+2657,498,706, YMCA of Metropolitan Chicago - North Lawndale YMCA,3449 W Arthington St ,6380773,, YMCA of Metropolitan Chicago - North Lawndale YMCA,3449 W Arthington St ,6380773,,1
+2658,706,499, YMCA of Metropolitan Chicago - North Lawndale YMCA,3449 W Arthington St ,6380773,, YMCA of Metropolitan Chicago - North Lawndale YMCA,3449 W Arthington St ,6380773,,1
+2661,445,2925, Howard Area Early Childhood Center,7510 N. Ashland ,7647610,, Howard Area Family Center,7510 N. Ashland Avenue  ,7647610,60626,1
+2667,2587,2587, Johnson,1420 S. Albany ,5341829,60623, Johnson,1420 S. Albany ,5341829,60623,1
+2683,1775,1775,HOWARD AREA COMMUNITY CENTER HOWARD AREA,7510 N ASHLAND ,2626622,60626,HOWARD AREA COMMUNITY CENTER HOWARD AREA,7510 N ASHLAND ,2626622,60626,1
+2684,1775,2925,HOWARD AREA COMMUNITY CENTER HOWARD AREA,7510 N ASHLAND ,2626622,60626, Howard Area Family Center,7510 N. Ashland Avenue  ,7647610,60626,1
+2685,2718,1798, Peirce,1423 W. Bryn Mawr ,5342440,60660,HULL HOUSE ASSOCIATION UPTOWN - EAST,1020 W BRYN MAWR ,7695753,60660,0
+2688,2718,2718, Peirce,1423 W. Bryn Mawr ,5342440,60660, Peirce,1423 W. Bryn Mawr ,5342440,60660,1
+2697,2625,2625, Lozano,1424 N. Cleaver ,5344150,60622, Lozano,1424 N. Cleaver ,5344150,60622,1
+2709,2548,2548, Harvard,7525 S. Harvard ,5353045,60620, Harvard,7525 S. Harvard ,5353045,60620,1
+2718,2926,2926, Immaculate Conception,1431 N. North Park Avenue  ,9440304,60610, Immaculate Conception,1431 N. North Park Avenue  ,9440304,60610,1
+2721,2873,2873, Alphonsus Academy & Center for the Arts,1439 West Wellington  ,3484629,60657, Alphonsus Academy & Center for the Arts,1439 West Wellington  ,3484629,60657,1
+2723,949,949," Colemon, Johnnie",1441 W. 119th St. ,5353975,," Colemon, Johnnie",1441 W. 119th St. ,5353975,,1
+2741,2306,2307, Audubon,3500 N. Hoyne ,5345470,60618, Audubon,3500 N. Hoyne ,5345470,60618,1
+2760,3288,3288, Woodlawn T.W.O. Infant Toddler School,1445 E 65th Street ,3245880,60637, Woodlawn T.W.O. Infant Toddler School,1445 E 65th Street ,3245880,60637,1
+2769,249,571, Catholic Charities - Our Lady of Lourdes,1449 S. Keeler ,5213126,, Catholic Charities of the Archdiocese of Chicago - Our Lady of Lourdes,1449 S Keeler Ave ,5213126,,1
+2770,249,1439, Catholic Charities - Our Lady of Lourdes,1449 S. Keeler ,5213126,,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO OUR LADY OF LOURDES,1449 S KEELER ,5213126,60623,1
+2773,570,1439, Catholic Charities of the Archdiocese of Chicago - Our Lady of Lourdes,1449 S Keeler Ave ,5213126,,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO OUR LADY OF LOURDES,1449 S KEELER ,5213126,60623,1
+2774,710,710, YMCA of Metropolitan Chicago - Logan Square - First Lutheran YMCA,3500 W Fullerton Ave ,8625960,, YMCA of Metropolitan Chicago - Logan Square - First Lutheran YMCA,3500 W Fullerton Ave ,8625960,,1
+2781,1439,249,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO OUR LADY OF LOURDES,1449 S KEELER ,5213126,60623, Catholic Charities - Our Lady of Lourdes,1449 S. Keeler ,5213126,,1
+2792,1439,571,CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO OUR LADY OF LOURDES,1449 S KEELER ,5213126,60623, Catholic Charities of the Archdiocese of Chicago - Our Lady of Lourdes,1449 S Keeler Ave ,5213126,,1
+2808,250,250, Lutheran Social Services North Austin,1500 N. Mason ,2371930,, Lutheran Social Services North Austin,1500 N. Mason ,2371930,,1
+2810,450,1397, Ada S. McKinley Wright Renaissance,7939 S. Western ,4768805,,ADA S. MCKINLEY COMMUNITY SERVICES MCKINLEY-WRIGHT RENAISSANCE,7939 S WESTERN ,4768805,60620,1
+2811,450,3037, Ada S. McKinley Wright Renaissance,7939 S. Western ,4768805,, Ada S. McKinley Community Services - Wright Renaissance,7939 S Western Avenue ,4768805,60620,1
+2814,1500,1500,"CHICAGO PUBLIC SCHOOLS DVORAK MATH & SCIENCE TECH ACADEMY, ANTON",3615 WEST 16TH ,5341690,60623,"CHICAGO PUBLIC SCHOOLS DVORAK MATH & SCIENCE TECH ACADEMY, ANTON",3615 WEST 16TH ,5341690,60623,1
+2832,1397,1397,ADA S. MCKINLEY COMMUNITY SERVICES MCKINLEY-WRIGHT RENAISSANCE,7939 S WESTERN ,4768805,60620,ADA S. MCKINLEY COMMUNITY SERVICES MCKINLEY-WRIGHT RENAISSANCE,7939 S WESTERN ,4768805,60620,1
+2838,1397,3037,ADA S. MCKINLEY COMMUNITY SERVICES MCKINLEY-WRIGHT RENAISSANCE,7939 S WESTERN ,4768805,60620, Ada S. McKinley Community Services - Wright Renaissance,7939 S Western Avenue ,4768805,60620,1
+2854,3037,1397, Ada S. McKinley Community Services - Wright Renaissance,7939 S Western Avenue ,4768805,60620,ADA S. MCKINLEY COMMUNITY SERVICES MCKINLEY-WRIGHT RENAISSANCE,7939 S WESTERN ,4768805,60620,1
+2860,3037,3037, Ada S. McKinley Community Services - Wright Renaissance,7939 S Western Avenue ,4768805,60620, Ada S. McKinley Community Services - Wright Renaissance,7939 S Western Avenue ,4768805,60620,1
+2863,1170,1170, Better Boys Foundation - Better Boys Fndn Family Service,1512 S Pulaski St ,2779582,, Better Boys Foundation - Better Boys Fndn Family Service,1512 S Pulaski St ,2779582,,1
+2873,2914,2914, Ezzard Charles School,7946 South Ashland Avenue  ,4870227,60620, Ezzard Charles School,7946 South Ashland Avenue  ,4870227,60620,1
+2878,2914,1608, Ezzard Charles School,7946 South Ashland Avenue  ,4870227,60620,CHICAGO YOUTH CENTERS EZZARD CHARLES SCHOOL,7946 S ASHLAND AVE ,4870227,60620,1
+2890,3101,3101, Chicago Youth Centers - BBR Youth Center,1530 S Hamlin Avenue ,7621140,60623, Chicago Youth Centers - BBR Youth Center,1530 S Hamlin Avenue ,7621140,60623,1
+2900,717,717, Monroe,3651 W. Schubert ,5344155,, Monroe,3651 W. Schubert ,5344155,,1
+2901,717,2663, Monroe,3651 W. Schubert ,5344155,, Monroe,3651 W. Shubert ,5344155,60647,1
